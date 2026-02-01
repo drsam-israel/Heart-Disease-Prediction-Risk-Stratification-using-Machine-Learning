@@ -22,7 +22,7 @@ heart-disease-ml-risk-stratification/
 
 
 ### 1: Heart Disease Prediction Using Machine Learning Models
- **File:** `HEART DISEASE PREDICTION USING MACHINE LEARNING MODELS.pdf`
+ **File:** https://docs.google.com/presentation/d/1Zj3Wyrf8C-6F7yOPvTK3j73TyIX5dIWW/edit?usp=sharing&ouid=114060838821448651676&rtpof=true&sd=true
 
 **Objective**
 - Predict the presence of heart disease using clinical data
@@ -51,7 +51,7 @@ heart-disease-ml-risk-stratification/
 ---
 
 ### 2: Heart Disease Risk Stratification Protocol (Interpretable Decision Tree)
-  **File:** `HEART DX RISK STRATIFICATION PROTOCOL PRESENTATION.pdf`
+  **File:** https://docs.google.com/presentation/d/1P0KPmsOq5Pt1bjTyDMaJEOXsAtXCzYlJ/edit?usp=sharing&ouid=114060838821448651676&rtpof=true&sd=true
 
 **Purpose**
 - Provide an **interpretable, stepwise risk stratification protocol**
